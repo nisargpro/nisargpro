@@ -1,9 +1,14 @@
-### Hi there 👋, Nisarg Hegade
+# Nisarg Hegade
 #### Flutter developer and AWS cloud Computing  
 I'm Nisarg from India, and I like to develop applications and software.
 I enjoy learning languages and frameworks like Flutter and API, as well as working in AI/ML. I also enjoy cloud computing like AWS IoT, AWS auth, EC2, etc.
 
-Skills: Flutter / Dart / Java / AWS / HTML / CSS / Bootstrap
+## Skills and Experience
+* :dart: Dart
+* :iphone: Flutter
+* :cloud: AWS
+* :computer: HTML, CSS , Java
+
 
 - 🔭 I’m currently working on Advanced cloud Projects... 
 - 🌱 I’m currently learning Python, AL/MI 
