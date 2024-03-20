@@ -15,7 +15,7 @@ I enjoy learning languages and frameworks like Flutter and API, as well as worki
 - 👯 I’m looking to collaborate on Industrial Automation 
 - 🤔 I’m looking for help with AI 
 - 💬 Ask me about Cloud Computing 
-- 📫 How to reach me: nisarghegadenisu@gmail.com 
+- 📫 How to reach me: nisargwork23@gmail.com
 - ⚡ Fun fact: Problem solving and bugs 
 
 
